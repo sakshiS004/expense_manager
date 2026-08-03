@@ -12,6 +12,14 @@ A feature-rich, offline-first Flutter application for tracking expenses, managin
 
 ---
 
+## 📥 Download APK
+
+You can download the ready-to-install Android APK directly from the project repository:
+
+👉 **[Download Expense Manager APK (v1.0.0)](build\app\outputs\flutter-apk\app-release.apk)**
+
+---
+
 ## ✨ Features
 
 - **Offline-First Storage**: Local database persistence using `sqflite` for fast and seamless offline usage.
